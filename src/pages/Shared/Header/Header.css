@@ -1,0 +1,27 @@
+.header-link{
+    color: white;
+    text-decoration: none;
+    /* line-height: 100px; */
+}
+.company-name{
+    color: wheat;
+    background-color: teal;
+    
+    line-height: 60px;
+    margin-bottom: 0;
+   
+}
+.company-name:hover{
+    background-color:rgb(120, 213, 216);
+    color:darkblue;
+    text-shadow: 1px 1px 0px #3f3232;
+}
+.header-info{
+    text-decoration: none;
+    color: black;
+}
+.header-img{
+    width: 40px;
+    border-radius: 25px;
+}
+body{background-color:rgb(252, 242, 228);}
